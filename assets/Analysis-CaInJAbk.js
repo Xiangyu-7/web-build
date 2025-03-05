@@ -1,0 +1,1 @@
+import{_ as s,h as n,i as a,o}from"./index-DgJ43lB0.js";const r={};function t(l,e){return o(),n("div",null,e[0]||(e[0]=[a("h1",null,"Analysis Page",-1)]))}const i=s(r,[["render",t]]);export{i as default};

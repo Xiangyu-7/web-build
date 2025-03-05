@@ -1,0 +1,1 @@
+import{_ as a,h as t,i as l,o as n}from"./index-DgJ43lB0.js";const o={};function r(c,e){return n(),t("div",null,e[0]||(e[0]=[l("h1",null,"Calculate Page",-1)]))}const u=a(o,[["render",r]]);export{u as default};
